@@ -56,7 +56,6 @@ public:
 };
 
 //+speed up, vector<bool> -> vector<int>, build ans on the fly
-//https://leetcode.com/problems/n-queens/discuss/19808/Accepted-4ms-c%2B%2B-solution-use-backtracking-and-bitmask-easy-understand
 //Runtime: 0 ms, faster than 100.00% of C++ online submissions for N-Queens.
 //Memory Usage: 7.2 MB, less than 91.99% of C++ online submissions for N-Queens.
 class Solution {
