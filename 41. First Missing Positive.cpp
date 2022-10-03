@@ -36,7 +36,6 @@ public:
 };
 
 //swap element to its right place
-//https://leetcode.com/problems/first-missing-positive/discuss/17071/My-short-c%2B%2B-solution-O(1)-space-and-O(n)-time
 //Runtime: 4 ms, faster than 83.82% of C++ online submissions for First Missing Positive.
 //Memory Usage: 9.8 MB, less than 63.74% of C++ online submissions for First Missing Positive.
 //time: O(N), because in each iteration of while loop, we put one element into its right position, 
